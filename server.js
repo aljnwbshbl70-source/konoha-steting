@@ -29,7 +29,7 @@ app.listen(PORT, () => {
 });
 
 // 2. إعدادات البوت والتوكن الرسمي الخاص بك
-const BOT_TOKEN = '8928251813:AAEj0xODDFxDe-F7KLzGzjznIJ27r_Jx0OI';
+const BOT_TOKEN = '8928251813:AAE_wBdOMmNdED0Gfp6ERET_xU3sU3ovNo4';
 const bot = new Telegraf(BOT_TOKEN);
 
 const DEVELOPER_ID = "snow_dev_id_10"; // معرف مستند حساب المطور الثابت لحمايتك
