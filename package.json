@@ -1,3 +1,4 @@
+{
   "name": "konoha-steting",
   "version": "1.0.0",
   "description": "Central Bank Monitor Bot",
@@ -9,3 +10,5 @@
     "express": "^4.19.2",
     "firebase": "^10.12.2",
     "telegraf": "^4.16.3"
+  }
+}
